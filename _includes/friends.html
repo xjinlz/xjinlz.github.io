@@ -1,10 +1,12 @@
 {% if site.friends %}
 <hr>
-<h5>FRIENDS</h5>
-<ul class="list-group">
+<h5 style="margin-left: 0;">FRIENDS</h5>
+<ul style="padding: 0; list-style: none;">
   {% for friend in site.friends %}
-  <li class="list-group-item">
-    <a href="{{friend.href}}">{{friend.title}}</a>
+  <li style="margin-bottom: 10px;">
+    <a href="{{friend.href}}" style="text-decoration: none; color: inherit;">
+      {{friend.title}}
+    </a>
   </li>
   {% endfor %}
 </ul>

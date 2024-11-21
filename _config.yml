@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: xjin96@pku.edu.cn  
 description: "这里是 @金旭 的个人网站，与你一起发现更大的世界 | 要做一个有永远向上的人"
 keyword: "金旭, Xu Jin, JIN的博客, 博客, 个人网站, 互联网, WMSDs, Ergonomics, Human Factor, Health, Work-related Musculoskeletal Disorders"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://github.com/xjinlz" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: disqus_FPHdhVSml6
+disqus_username:
 
 # Netease settings
 netease_comment: false

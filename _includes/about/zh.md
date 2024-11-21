@@ -2,8 +2,8 @@
 
 Hey，我是[金旭](https://github.com/xjinlz)，[北京大学公共卫生学院](https://sph.pku.edu.cn/index.htm)2022级博士研究生,（师从 [Prof. Lihua He](https://sph.pku.edu.cn/info/1471/3844.htm) )。
 
-## 研究方向：   
-<br>职业工效学    
+##### 研究方向：   
+<br>职业工效学        
 <br>工作相关肌肉骨骼疾患     
 <br>物理因素与职业病   
 <br>人因工程   

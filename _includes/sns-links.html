@@ -80,7 +80,7 @@
   {% endif %}
   {% if site.researchgate_username %}
   <li>
-    <a target="_blank" href="https://www.researchgate.net/profile/{{ site.researchgate_username }}">
+    <a target="_blank" href="https://www.researchgate.net/profile/{{ site.researchgate_username | uri_escape }}">
       <span class="fa-stack fa-lg">
         <i class="fa fa-circle fa-stack-2x"></i>
         <i class="fa fa-book fa-stack-1x fa-inverse"></i>

@@ -1,9 +1,9 @@
 # Site settings    
 title: Xu Jin Blog    
-SEOTitle: 金旭的个人网站 | Xu Jin Blog
+SEOTitle: 九日个人网站 | Xu Jin Blog
 header-img: img/home-bg.jpg
 email: xjin96@pku.edu.cn  
-description: "这里是 @金旭 的个人网站，与你一起发现更大的世界 | 要做一个有永远向上的人"
+description: "这里是 @九日 的个人网站，与你一起发现更大的世界 | 要做一个有永远向上的人"
 keyword: "金旭, Xu Jin, JIN的博客, 博客, 个人网站, 互联网, WMSDs, Ergonomics, Human Factor, Health, Work-related Musculoskeletal Disorders"
 url: "https://github.com/xjinlz" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'

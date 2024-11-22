@@ -16,10 +16,10 @@ RSS: false
 weibo_username: 
 zhihu_username: sleepwell-39
 github_username: xjinlz
-twitter_username:     
-research_username: Xu-Jin
-#facebook_username:  
-#linkedin_username:  firstname-lastname-idxxxx
+#twitter_username:     
+research_username: Xu-Jin                                            
+#facebook_username:      
+#linkedin_username:  firstname-lastname-idxxxx 
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.

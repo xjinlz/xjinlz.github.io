@@ -2,7 +2,7 @@
 
 Hey，我是[九日](https://github.com/xjinlz)，[北京大学公共卫生学院](https://sph.pku.edu.cn/index.htm)博士研究生。
 
-
+<br>Email: <xjin96@pku.edu.cn>    
 
 ##### 研究方向：   
 职业工效学        

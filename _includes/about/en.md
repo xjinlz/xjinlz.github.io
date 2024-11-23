@@ -1,6 +1,6 @@
-##### Personal profile
+##### Personal profile 
 
-Hey, I'm Xu Jin, [Peking University school of public health](https://sph.pku.edu.cn/index.htm) doctoral students, (Supervisor [Lihua He](https://sph.pku.edu.cn/info/1471/3844.htm)).
+Hey, I'm Xu Jin, doctoral students, from [School of Public Health, Peking University](https://sph.pku.edu.cn/index.htm) doctoral students, (Supervisor [Lihua He](https://sph.pku.edu.cn/info/1471/3844.htm)).
 
 ##### Research interests:                       
 Occupational ergonomics

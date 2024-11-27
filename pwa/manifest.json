@@ -1,13 +1,13 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
+  "name": "Jin Xu Blog",
+  "short_name": "Jin Xu Blog",
+  "description": "About a nobody who loves the world.",
   "icons": [{
-    "src": "icons/128.png",
+    "src": "icons/x128.png",
     "sizes": "128x128",
     "type": "image/png"
   }, {
-    "src": "icons/512.png",
+    "src": "icons/x512.png",
     "sizes": "512x512",
     "type": "image/png"
   }],
